@@ -5,8 +5,8 @@
 
 ## Windows
 
-> para iniciar el servidor de base de datos de MySQL en Windows 
-> debo utilizar el administrador de servicios
+> Para iniciar el servidor de base de datos de MySQL en Windows 
+> Debo utilizar el administrador de servicios
 
 1. Presionar la combinación de teclas WIN + R
 2. Esto abrirá la ventana 'ejecutar'
