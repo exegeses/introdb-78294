@@ -1,0 +1,22 @@
+
+INSERT INTO proveedores (razonSocial, cuit, telefono, email, direccion) VALUES
+('TechGlobal S.A.', '30-12345678-1', '+54 11 4567-1234', 'contacto@techglobal.com', 'Av. Corrientes 1234, CABA, Argentina'),
+('Distribuciones Andinas', '20-23456789-2', '+56 2 2345-6789', 'ventas@andinas.cl', 'Calle El Bosque 556, Santiago, Chile'),
+('NorteElectro Ltda.', '27-34567890-3', '+598 2 908-1122', 'info@norteelectro.uy', 'Av. 18 de Julio 1345, Montevideo, Uruguay'),
+('MegaTools Inc.', '40-45678901-4', '+1 305 778-4433', 'support@megatools.com', '745 NW 30th St, Miami, FL, USA'),
+('Proveedora Patagónica', '30-56789012-5', '+54 294 412-3344', 'patagonia@proveedores.com', 'Ruta 40 Km 123, Bariloche, Argentina'),
+('Servicios Industriales SRL', '30-67890123-6', '+595 21 334-5566', 'srl@industriales.com.py', 'Avda. España 890, Asunción, Paraguay'),
+('Soluciones Integrales', '30-78901234-7', '+54 351 456-6677', 'ventas@soluciones.com', 'Av. Colón 3000, Córdoba, Argentina'),
+('Transporte Austral', '20-89012345-8', '+54 261 512-7890', 'info@austral.com.ar', 'Acceso Sur 1500, Mendoza, Argentina'),
+('LogiNet Perú SAC', '40-90123456-9', '+51 1 345-9087', 'contacto@loginet.pe', 'Jr. Lampa 456, Lima, Perú'),
+('Insumos del Norte', '27-11223344-1', '+54 381 445-7890', 'norte@insumos.com.ar', 'Av. Mate de Luna 3200, Tucumán, Argentina'),
+('TecnoPartes MX', '30-22113344-2', '+52 55 9988-7766', 'ventas@tecnopartes.mx', 'Reforma 122, CDMX, México'),
+('EuroCom GmbH', 'DE-123456789', '+49 30 1234-5678', 'info@eurocom.de', 'Friedrichstr. 88, Berlín, Alemania'),
+('Asia Supply Co.', 'JP-987654321', '+81 3 5678-4321', 'hello@asiasupply.jp', '1-2-3 Shibuya, Tokio, Japón'),
+('HydroChile Ltda.', '30-44556677-3', '+56 2 9988-1122', 'hidro@chile.cl', 'Av. Providencia 3300, Santiago, Chile'),
+('NovaParts SRL', '30-55667788-4', '+54 11 3900-1122', 'ventas@novaparts.com', 'Calle Mitre 560, La Plata, Argentina'),
+('EcoBuild SAS', '30-66778899-5', '+57 1 345-2233', 'info@ecobuild.co', 'Cra 7 #123, Bogotá, Colombia'),
+('Logística del Sur', '20-77889900-6', '+54 264 441-9988', 'logistica@sur.com.ar', 'Ruta 40 y 25 de Mayo, San Juan, Argentina'),
+('InterTrade Group', '40-88990011-7', '+1 212 555-6789', 'admin@intertrade.com', '456 5th Ave, New York, NY, USA'),
+('AlfaTech Bolivia', '30-99001122-8', '+591 2 244-6677', 'alfa@tech.bo', 'Av. Mariscal Santa Cruz 789, La Paz, Bolivia'),
+('Global Agro S.A.', '30-11112222-9', '+54 387 443-1122', 'agro@global.com', 'Ruta 9 Km 15, Salta, Argentina');
