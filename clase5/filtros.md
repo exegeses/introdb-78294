@@ -33,10 +33,10 @@
       WHERE titulo BETWEEN 'b' AND 'e'  
       order by titulo;  
 
-> obtener nombre y precio de los productos de la marca 'Samsung' 
+> Obtener nombre y precio de los productos de la marca 'Samsung' 
 
     SELECT nombreProducto, precio  
       FROM productos  
       WHERE idMarca = 1;  
 
-> obtener nombre y precio de los productos de las marcas 'Samsung' y 'Apple'
+> Obtener nombre y precio de los productos de las marcas 'Samsung' y 'Apple'
